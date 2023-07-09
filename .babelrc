@@ -1,0 +1,12 @@
+{
+  "presets": ["next/babel", "@babel/preset-typescript"],
+  "plugins": [
+    [
+      "@emotion/babel-plugin",
+      {
+        "autoLabel": "dev-only",
+        "labelFormat": "[filename]-[local]"
+      }
+    ]
+  ]
+}
