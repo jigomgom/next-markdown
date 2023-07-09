@@ -17,8 +17,6 @@ assignees: ''
 - [ ] Fix
 - [ ] Merge
 - [ ] Documentation
-- [ ] Question
-- [ ] Language (선택)
 
 <br/>
 
